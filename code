@@ -1,0 +1,6 @@
+PSH 5       
+PSH 10      
+ADD         
+POP         
+SET A 0     
+HLT
